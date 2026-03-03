@@ -1,2 +1,4 @@
 /* base.css - arquivo limpo (sem estilos) */
-
+body{
+    font-family: var(--fonte-principal);
+}
