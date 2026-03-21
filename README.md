@@ -59,7 +59,7 @@ Para visualizar o projeto, siga os passos abaixo:
 Não é necessário nenhum servidor web ou ferramenta de compilação, pois o projeto é puramente estático.
 
 ## Autor
-Seu Nome/Organização
+Daniella Solinho
 
 ## Licença
 Este projeto está licenciado sob a licença MIT (ou outra licença de sua escolha). Veja o arquivo `LICENSE` para mais detalhes.
